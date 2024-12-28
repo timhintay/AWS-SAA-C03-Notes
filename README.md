@@ -316,9 +316,9 @@ Other components:
 - Blast Radius = Region
 - Unlimited number of Objects
 - Name is globally unique
+  - 3 - 63 characters, all lower case, no underscores
+  - Start with a lowercase letter or a number
 - All objects are stored within the bucket at the same level.
-- 3 - 63 characters, all lower case, no underscores
-- Start with a lowercase letter or a number
 - 100 soft limit, 1000 hard limit per account
 
 If the objects name starts with a slash such as `/old/Koala1.jpg` the UI will
