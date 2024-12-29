@@ -450,10 +450,12 @@ Customer: Responsible for security **IN** the cloud
 - Aims to **ensure** an agreed level of operational **performance**, usually
 **uptime**, for a **higher than normal period**
 - Instead of diagnosing the issue, if you have a process ready to replace it, it can be fixed quickly and probably in an automated way.
-- Spare infrastructure ready to switch customers over to in the event of a disaster to minimize downtime
+- Minimize outages/downtime
+  - Keeping a system operational
+  - It's about fast or automatic recovery of issues
+    - Spare infrastructure ready to switch customers over to in the event of a disaster
 - User disruption is not ideal, but is allowed
   - The user might have a small disruption or might need to log back in.
-- Minimize outages
 - Maximizing a system's uptime
   - 99.9% (Three 9's) = 8.7 hours downtime per year.
   - 99.999 (Five 9's) = 5.26 minutes downtime per year.
