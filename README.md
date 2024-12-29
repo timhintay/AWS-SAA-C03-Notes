@@ -453,6 +453,7 @@ Customer: Responsible for security **IN** the cloud
 - Spare infrastructure ready to switch customers over to in the event of a disaster to minimize downtime
 - User disruption is not ideal, but is allowed
   - The user might have a small disruption or might need to log back in.
+- Minimize outages
 - Maximizing a system's uptime
   - 99.9% (Three 9's) = 8.7 hours downtime per year.
   - 99.999 (Five 9's) = 5.26 minutes downtime per year.
